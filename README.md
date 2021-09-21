@@ -1,4 +1,5 @@
-<div>
+<div align="center"> 
+
   
 ## Olá! Eu sou a Karoline Lima 🙂👋
 
